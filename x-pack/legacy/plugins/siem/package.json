@@ -16,7 +16,7 @@
     "@types/react-beautiful-dnd": "^11.0.4"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react-beautiful-dnd": "^12.2.0",
     "react-markdown": "^4.0.6"
   }
