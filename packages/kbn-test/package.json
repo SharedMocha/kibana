@@ -24,7 +24,7 @@
     "del": "^5.1.0",
     "getopts": "^2.2.4",
     "glob": "^7.1.2",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "strip-ansi": "^5.2.0",
     "rxjs": "^6.5.3",
     "tar-fs": "^1.16.3",
