@@ -270,7 +270,7 @@
     "markdown-it": "^10.0.0",
     "memoize-one": "^5.0.0",
     "mime": "^2.4.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.27",
     "ngreact": "^0.5.1",
